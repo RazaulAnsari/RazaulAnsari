@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RazaulAnsari
 - 👀 I’m interested in Make IOS Apps..
-- 🌱 I’m currently learning Swift5, SwiftUI.
+- 🌱 Now I'm Junior iOS developer
 - 💞️ I’m looking to collaborate on code😀
 - 📫 How to reach me Follow on #instagram @mr142118
 
